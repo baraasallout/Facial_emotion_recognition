@@ -12,8 +12,6 @@ This step when triggered, will train the model using the loaded training face im
 
 Artificial Intelligence  can  be  used to  solve  intriguing  tasks such  as   emotion   detection,   although   this   task   was  quite convolute even more when using a great  number of images. We   humans   also   sometimes   make   a   mistake   while  recognizing   someone’s   emotion   so   is   our   program.   The optimum accuracy was nearly 89.6%.
 
-## Results.
+## Results of accuracy.
 ![](1.png)
-
-![](2.png)
 
